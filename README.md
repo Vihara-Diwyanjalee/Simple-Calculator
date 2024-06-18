@@ -36,5 +36,5 @@ git clone https://github.com/Vihara-Diwyanjalee/Simple-Calculator.git
 
 ## Screenshots
 
-<img src="https://github.com/Vihara-Diwyanjalee/Simple-Calculator/blob/main/app/src/main/res/drawable/cal.png" alt="Cal-Screenshots" width=500>
+<img src="https://github.com/Vihara-Diwyanjalee/Simple-Calculator/blob/main/app/src/main/res/drawable/cal.png" alt="Cal-Screenshots" width=400>
 
