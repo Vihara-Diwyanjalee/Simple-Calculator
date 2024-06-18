@@ -27,7 +27,7 @@ To set up the project locally, follow these steps:
 **1. Clone the repository.**
 
 ```
-git clone https://github.com/Vihara-Diwyanjalee/Coffee-Shop-App.git
+git clone https://github.com/Vihara-Diwyanjalee/Simple-Calculator.git
 ```
 
 **2. Open the project in Android Studio.**
@@ -36,5 +36,5 @@ git clone https://github.com/Vihara-Diwyanjalee/Coffee-Shop-App.git
 
 ## Screenshots
 
-<img src="https://github.com/Vihara-Diwyanjalee/Coffee-Shop-App/blob/main/app/src/main/res/drawable/s1.png" alt="CoffeeShop-Screenshots" width=1000>
+<img src="https://github.com/Vihara-Diwyanjalee/Simple-Calculator/blob/main/app/src/main/res/drawable/cal.png" alt="Cal-Screenshots" width=1000>
 
