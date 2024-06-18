@@ -11,17 +11,14 @@
 
 ## Overview
 
-Coffee Shop is a mobile application designed to enhance your coffee shop experiences by providing a platform to explore, order, and connect with the coffee-loving community. Whether you're a busy professional, a student, or a socializer, this app caters to your coffee needs and preferences, ensuring a delightful and convenient experience.
+Simple Calculator is an easy-to-use Android application designed to perform basic arithmetic operations. With a clean interface and straightforward functionality, this app helps users quickly perform addition, subtraction, multiplication, and division. It's perfect for everyday calculations, ensuring accuracy and ease of use.
 
 ## Features
 
-- **Location-Based Search:** Easily find nearby coffee shops using your current location or a specified address.
-- **Personalized Recommendations:** Receive tailored coffee shop suggestions based on your preferences and past choices.
-- **Event and Promotion Notifications:** Stay updated on exclusive events, deals, and promotions at your favorite coffee spots.
-- **Bookmarking and Favorites:** Save your preferred coffee shops for quick access and keep track of new offerings and events.
-- **User Profiles:** Track your coffee experiences, reviews, and preferences within the app.
-- **Advanced Search Filters:** Narrow down your search results with filters like coffee bean origin and brewing techniques.
-- **QR Code Reading:** Quickly add new products to your inventory by scanning QR codes on coffee packaging, saving time and effort.
+- **Intuitive Design:** User-friendly interface with large buttons and clear text for seamless interaction.
+- **Basic Arithmetic Operations:** Supports addition, subtraction, multiplication, and division.
+- **Immediate Results:** Instantly displays results with a responsive and efficient performance.
+- **Customizable Appearance:** Utilizes appealing color schemes and text sizes for better readability.
 
 ## Installation
 
